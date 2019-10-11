@@ -6,13 +6,13 @@
 Summary:	Backport of the concurrent.futures package from Python 3.2
 Summary(pl.UTF-8):	Backport pakietu concurrent.futures z Pythona 3.2
 Name:		python-futures
-Version:	3.2.0
+Version:	3.3.0
 Release:	1
 License:	PSF v2
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/futures/
 Source0:	https://files.pythonhosted.org/packages/source/f/futures/futures-%{version}.tar.gz
-# Source0-md5:	d1b299a06b96ccb59f70324716dc0016
+# Source0-md5:	b43a39ae1475e3fd6940f2b4f7214675
 URL:		https://github.com/agronholm/pythonfutures
 BuildRequires:	python-modules >= 1:2.6
 BuildRequires:	python-setuptools
